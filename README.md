@@ -5,7 +5,7 @@ This is kinda different type of Market Place than the regular ones.In this we'll
 ## Intalling all dependancies 
 
 ``` bash
-yarn add 
+yarn 
 ```
 
 Change the firebase config and Stripe keys 
